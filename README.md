@@ -1,3 +1,5 @@
+# Guiding Inferences in Connection Tableau by Recurrent Neural Networks
+
 This repository contains data for experiments on applying recurrent neural
 networks for internal guidance for connection tableau proofs; the experiments
 were described in the paper
